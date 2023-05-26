@@ -1,8 +1,6 @@
 package exercicio3;
-
 import java.util.*;
 
-//Classe para representar uma pessoa
 class Pessoa {
  private String nome;
 
@@ -15,7 +13,6 @@ class Pessoa {
  }
 }
 
-//Classe para representar uma ferramenta
 class Ferramenta {
  private String nome;
  private boolean emprestada;
@@ -38,7 +35,6 @@ class Ferramenta {
  }
 }
 
-//Classe para representar um empréstimo
 class Emprestimo {
  private Pessoa pessoa;
  private Ferramenta ferramenta;
@@ -64,7 +60,6 @@ class Emprestimo {
  }
 }
 
-//Classe para o controle do empréstimo de ferramentas
 class ControleEmprestimoFerramentas {
  private List<Pessoa> pessoas;
  private List<Ferramenta> ferramentas;
