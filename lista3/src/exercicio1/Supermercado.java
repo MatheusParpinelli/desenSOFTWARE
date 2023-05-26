@@ -3,7 +3,6 @@ package exercicio1;
 import java.util.ArrayList;
 import java.util.List;
 
-//Classe para representar o supermercado
 public class Supermercado {
 private List<Produto> produtos;
 private List<Pedido> pedidos;
