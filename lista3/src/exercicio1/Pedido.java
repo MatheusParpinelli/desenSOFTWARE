@@ -1,7 +1,6 @@
 package exercicio1;
 import java.util.*;
 
-//Classe para representar um pedido
 public class Pedido {
 private List<ItemPedido> itens;
 private double valorTotal;
