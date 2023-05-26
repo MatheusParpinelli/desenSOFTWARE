@@ -1,8 +1,5 @@
 package exercicio1;
 
-
-
-//Classe para representar um produto
 public class Produto {
 	private String nome;
 	private double preco;
