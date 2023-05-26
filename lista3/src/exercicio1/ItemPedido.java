@@ -1,6 +1,5 @@
 package exercicio1;
 
-//Classe para representar um item do pedido
 public class ItemPedido {
 private Produto produto;
 private int quantidade;
